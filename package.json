@@ -1,5 +1,5 @@
 {
-  "name": "design",
+  "name": "skeleton-design",
   "private": true,
   "scripts": {
     "test": "bun test tests",
